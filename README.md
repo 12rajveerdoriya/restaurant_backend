@@ -1,2 +1,2 @@
 # restaurant_backend
-# Author : Rajveer Doriya
+Author : Rajveer Doriya
